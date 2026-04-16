@@ -1,5 +1,5 @@
 # Problem: Find the next perfect square
-# Link: (paste your Codewars link here)
+# Link: https://www.codewars.com/kata/56269eb78ad2e4ced1000013
 # Description: Find the next perfect square after a given number, or return -1 if not a perfect square
 # Note: This is my approach using square root check
 

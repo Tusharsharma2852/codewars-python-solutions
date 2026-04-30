@@ -1,3 +1,6 @@
+Problem : Sum String as Numbers
+link : https://www.codewars.com/kata/5324945e2ece5e1f32000370/train/python
+Description : Given two numbers in string format, return thrir sum as a string. We cannot convert the entire string into integers because inputs can be extremely large ( million digits).
 def sum_strings(x, y):
 #     c = int(x) + int(y)
 #     d = str(c)

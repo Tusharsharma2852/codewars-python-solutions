@@ -4,7 +4,7 @@ def diff(a,b):
   c = a+b
   for i in c:
     if i in a and i in b:
-      a.remove[i]
+      a.remove(i)
   print(a)
 
 diff([1, 2, 2, 2, 3],[2])

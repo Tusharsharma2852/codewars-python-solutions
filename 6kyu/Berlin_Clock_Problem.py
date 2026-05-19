@@ -11,6 +11,7 @@
 # YOOO
 # "00:00:00"  ==>  "Y\nOOOO\nOOOO\nOOOOOOOOOOO\nOOOO"
 # "22:32:45"  ==>  "O\nRRRR\nRROO\nYYRYYROOOOO\nYYOO"
+#Link : https://www.codewars.com/kata/5a1463678ba9145a670000f9/train/python
 def berlin_clock(time):
     parts = time.split(":")
     hour = int(parts[0])
